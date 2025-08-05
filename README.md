@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnkxdjd0NGxnYnh0ajQyOTZva3V5eWc5OWs5OXRzbWJpdWswbzN1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" alt="MasterHead" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnkxdjd0NGxnYnh0ajQyOTZva3V5eWc5OWs5OXRzbWJpdWswbzN1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" alt="MasterHead" width="325"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jaime</h1>
-<h3 align="center">A Curious mind, passionate learner,junior backend developer growing every single day.</h3>
+<h3 align="center">A Curious mind, passionate learner, junior backend developer growing every single day.</h3>
 
 - 🚀 I’m currently working on [productManagement](https://github.com/Andres-VIP/productManagement) – A CRUD app using Spring Boot and H2.
 
