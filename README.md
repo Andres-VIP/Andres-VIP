@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnkxdjd0NGxnYnh0ajQyOTZva3V5eWc5OWs5OXRzbWJpdWswbzN1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" alt="MasterHead" width="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnkxdjd0NGxnYnh0ajQyOTZva3V5eWc5OWs5OXRzbWJpdWswbzN1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" alt="MasterHead" width="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jaime</h1>
